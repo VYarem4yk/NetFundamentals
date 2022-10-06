@@ -1,0 +1,13 @@
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\obj\Debug\Task2-WinformsUsesDll.csproj.AssemblyReference.cache
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\obj\Debug\Task2_WinformsUsesDll.Properties.Resources.resources
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\obj\Debug\Task2-WinformsUsesDll.csproj.GenerateResource.cache
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\obj\Debug\Task2-WinformsUsesDll.csproj.CoreCompileInputs.cache
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\bin\Debug\Task2-WinformsUsesDll.exe.config
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\bin\Debug\Task2-WinformsUsesDll.exe
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\bin\Debug\Task2-WinformsUsesDll.pdb
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\bin\Debug\Task2-MultitargetingDll.dll
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\bin\Debug\Task2-MultitargetingDll.pdb
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\obj\Debug\Task2_WinformsUsesDll.Login.resources
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\obj\Debug\Task2-WinformsUsesDll.csproj.CopyComplete
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\obj\Debug\Task2-WinformsUsesDll.exe
+C:\Users\Uladzislau_Yaremchuk\source\repos\NetFundamentals\Task2-WinformsUsesDll\obj\Debug\Task2-WinformsUsesDll.pdb

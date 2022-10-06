@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Task2-CoreConsoleAppUsesDll/1.0.0": {
+        "dependencies": {
+          "Task2-MultitargetingDll": "1.0.0"
+        },
+        "runtime": {
+          "Task2-CoreConsoleAppUsesDll.dll": {}
+        }
+      },
+      "Task2-MultitargetingDll/1.0.0": {
+        "runtime": {
+          "Task2-MultitargetingDll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task2-CoreConsoleAppUsesDll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Task2-MultitargetingDll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
